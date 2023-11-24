@@ -14,8 +14,8 @@
 U32 WINDOW_HEIGHT = 800;
 U32 WINDOW_WIDTH = 1000;
 
-const char* VERTEX_SHADER_PATH = "/home/vinikobs/Codeblocks/opengl2/assets/vsh.glsl";
-const char* FRAGMENT_SHADER_PATH = "/home/vinikobs/Codeblocks/opengl2/assets/fsh.glsl";
+const char* VERTEX_SHADER_PATH = "assets/vsh.glsl";
+const char* FRAGMENT_SHADER_PATH = "assets/fsh.glsl";
 
 Camera* GLOBAL_CAM;
 Window* GLOBAL_WINDOW;
